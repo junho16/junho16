@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Algorithm and Goland
+- ✍️ Here [blogs](https://junho16.github.io/), but emmm
 - 📫 How to reach me: wangjunho@foxmail.com 
 
 ![](https://github-readme-stats.vercel.app/api?username=junho16)
